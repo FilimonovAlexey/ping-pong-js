@@ -12,18 +12,18 @@ const maxPaddleY = canvas.height - grid - paddleHeight;
 var paddleSpeed = 6;
 // Скорость мяча
 var ballSpeed = 5;
-// Описываем левую платформу
-const leftPaddle = {
+// Описываем левую платформуl;l
+const leftPaddle = {;l;
   // Ставим её по центру
   x: grid * 2,
-  y: canvas.height / 2 - paddleHeight / 2,
+  y: canvas.height / 2 - paddleHeight /l;l 2,
   // Ширина — одна клетка
   width: grid,
-  // Высоту берём из константы
+  // Высоту берём из константы;l;
   height: paddleHeight,
   // Платформа на старте никуда не движется
   dy: 0
-};
+};;l;l
 // Описываем правую платформу
 const rightPaddle = {
   // Ставим по центру с правой стороны
